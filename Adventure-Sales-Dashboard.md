@@ -2,9 +2,14 @@ The provided images display different dashboards related to Adventure Work's sal
 
 Adventure Work Sales Dashboard:
 
+<a href="https://github.com/Aggarwalbhavya48/Data-Analysis-Dashboards/blob/main/Screenshot%202025-03-16%20172730.png"> adventure sales</a>
+
 Provides an overview of key sales metrics such as total customers (18K), order quantity (84K), revenue (24.91M), cost (14.46M), and profit (10.46M).
+
 Profit is analyzed by product name, year, continent, category, and country.
+
 Order quantity trends over the years are also displayed.
+
 Adventure Work Product Dashboard:
 
 Focuses on revenue insights by product category, product style, and month.
