@@ -1,11 +1,11 @@
 # Data-Analysis-Dashboards
-The image is a Sales Dashboard displaying key business metrics related to sales, profit, quantity, and shipping costs. The main highlights include:
-
+The image is a Sales Dashboard displaying key business metrics related to sales, profit, quantity, and shipping costs.
+<a href="https://github.com/Aggarwalbhavya48/Data-Analysis-Dashboards/blob/main/sales.png"> sales dashboard </a>
+The main highlights include:
 Total Sales: 12.64M
 Total Profit: 1.47M
 Total Quantity Sold: 178K
 Total Shipping Cost: 1.35M
-<a href="https://github.com/Aggarwalbhavya48/Data-Analysis-Dashboards/blob/main/sales.png"> sales dashboard </a>
 Key Visual Insights:
 1. Sales Breakdown by Category and Segment: Technology, Furniture, and Office Supplies sales are shown, categorized by Consumer, Corporate, and Home Office segments.
 2. Sales by Region: The Central region leads with 2.8M in sales, followed by the South and North regions.
