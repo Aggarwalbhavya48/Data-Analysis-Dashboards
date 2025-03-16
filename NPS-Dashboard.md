@@ -1,6 +1,6 @@
 The image is an NPS (Net Promoter Score) Dashboard for Microsoft, displaying customer satisfaction and loyalty metrics. 
 
-<a href="https://github.com/Aggarwalbhavya48/Data-Analysis-Dashboards/blob/main/Screenshot%202025-03-16%20164906.png>nps dashboard</a>
+<a href="https://github.com/Aggarwalbhavya48/Data-Analysis-Dashboards/blob/main/Screenshot%202025-03-16%20164906.png">nps dashboard</a>
 
 Key highlights include:
 
