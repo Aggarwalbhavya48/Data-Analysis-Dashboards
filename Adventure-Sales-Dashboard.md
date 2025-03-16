@@ -22,8 +22,14 @@ Revenue is highest in the bikes category, while accessories and clothing contrib
 
 Adventure Sales Customer Dashboard:
 
+<a href="https://github.com/Aggarwalbhavya48/Data-Analysis-Dashboards/blob/main/Screenshot%202025-03-16%20172549.png"> adventure customer</a>
+
 Analyzes customer demographics and sales data.
+
 Displays revenue distribution by gender, education level, and occupation.
+
 Provides customer-level revenue and order details.
+
 Includes return rate by marital status.
+
 Each dashboard provides a detailed breakdown of business performance, customer behavior, and sales trends. Let me know if you need a more in-depth analysis!
