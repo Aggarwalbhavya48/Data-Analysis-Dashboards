@@ -12,9 +12,14 @@ Order quantity trends over the years are also displayed.
 
 Adventure Work Product Dashboard:
 
+<a href="https://github.com/Aggarwalbhavya48/Data-Analysis-Dashboards/blob/main/Screenshot%202025-03-16%20172709.png"> adventure product</a>
+
 Focuses on revenue insights by product category, product style, and month.
+
 Includes a table summarizing revenue and profit by subcategories such as road bikes, mountain bikes, and accessories.
+
 Revenue is highest in the bikes category, while accessories and clothing contribute significantly less.
+
 Adventure Sales Customer Dashboard:
 
 Analyzes customer demographics and sales data.
