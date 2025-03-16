@@ -1,6 +1,7 @@
 # Data-Analysis-Dashboards
 The image is a Sales Dashboard displaying key business metrics related to sales, profit, quantity, and shipping costs.
 <a href="https://github.com/Aggarwalbhavya48/Data-Analysis-Dashboards/blob/main/sales.png"> sales dashboard </a>
+
 The main highlights include:
 Total Sales: 12.64M
 Total Profit: 1.47M
